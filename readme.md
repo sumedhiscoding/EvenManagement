@@ -1,1 +1,1 @@
-Hello This is Readme
+Completed version of API that fetches live upcoming as well as past events
